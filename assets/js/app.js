@@ -1,0 +1,1 @@
+$(function(){$("table").addClass("table table-responsive table-hover"),$("table").hasClass("table-sort")&&$("table").DataTable({paging:!1,info:!1,lengthChange:!1,searching:!1})});
